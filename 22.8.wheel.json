@@ -1,0 +1,78 @@
+[
+    {
+        "type": "cash",
+        "text": "$600",
+        "value": 600,
+        "prize": false
+    },
+    {
+        "type": "cash",
+        "text": "$900",
+        "value": 700,
+        "prize": false
+    },
+    {
+        "type": "cash",
+        "text": "$1500",
+        "value": 1500,
+        "prize": false
+    },
+    {
+        "type": "cash",
+        "text": "$2000",
+        "value": 2000,
+        "prize": false
+    },
+    {
+        "type": "cash",
+        "text": "$2500",
+        "value": 2500,
+        "prize": false
+    },
+    {
+        "type": "cash",
+        "text": "$5000",
+        "value": 5000,
+        "prize": "Motorcycle"
+    },
+    {
+        "type": "cash",
+        "text": "$10000",
+        "value": 10000,
+        "prize": false
+    },
+    {
+        "type": "cash",
+        "text": "$20000",
+        "value": 20000,
+        "prize": "A trip to Malibu & Vegas"
+    },
+    {
+        "type": "cash",
+        "text": "$40000",
+        "value": 40000,
+        "prize": "A luxurious Ferrary"
+    },
+    {
+        "type": "cash",
+        "text": "$500000",
+        "value": 500000,
+        "prize": "A house on the beach!"
+    },
+    {
+        "type": "cash",
+        "text": "One Million",
+        "value": 1000000,
+        "prize": false
+    },
+    {
+        "type": "bankruptcy",
+        "text": "Bankrupt",
+        "prize": false
+    },
+    {
+        "type": "loseturn",
+        "text": "Lose a turn",
+        "prize": false
+    }
+]
